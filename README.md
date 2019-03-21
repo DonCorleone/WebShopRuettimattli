@@ -1,4 +1,4 @@
-# WebShopRuettimattli
+# Webshop Ruettimattli
 
 Microsoft Professional Program MPP Clapstone Project
 
