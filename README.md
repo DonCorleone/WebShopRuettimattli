@@ -1,4 +1,4 @@
-# Webshop Ruettimattli
+# Webshop Nonprofit Company
 
 Microsoft Professional Program MPP Clapstone Project
 
