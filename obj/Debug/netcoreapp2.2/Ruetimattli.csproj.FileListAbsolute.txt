@@ -1,0 +1,14 @@
+/Users/dev/Documents/dev/projects/Ruetimattli/bin/Debug/netcoreapp2.2/Ruetimattli.deps.json
+/Users/dev/Documents/dev/projects/Ruetimattli/bin/Debug/netcoreapp2.2/Ruetimattli.runtimeconfig.json
+/Users/dev/Documents/dev/projects/Ruetimattli/bin/Debug/netcoreapp2.2/Ruetimattli.runtimeconfig.dev.json
+/Users/dev/Documents/dev/projects/Ruetimattli/bin/Debug/netcoreapp2.2/Ruetimattli.dll
+/Users/dev/Documents/dev/projects/Ruetimattli/bin/Debug/netcoreapp2.2/Ruetimattli.pdb
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.csprojAssemblyReference.cache
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.csproj.CoreCompileInputs.cache
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.RazorAssemblyInfo.cache
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.RazorAssemblyInfo.cs
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.AssemblyInfoInputs.cache
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.AssemblyInfo.cs
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.RazorTargetAssemblyInfo.cache
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.dll
+/Users/dev/Documents/dev/projects/Ruetimattli/obj/Debug/netcoreapp2.2/Ruetimattli.pdb
