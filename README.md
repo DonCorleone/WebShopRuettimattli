@@ -6,4 +6,4 @@ Microsoft Professional Program MPP Clapstone Project
 * .NET Core 2.2 Web API
 * SCSS
 
-Two separated projects
+Two separated projects [CodeProject](https://www.codeproject.com/Articles/1274513/Angular-7-with-NET-Core-2-2-Global-Weather-Part-1)
